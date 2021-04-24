@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <a href="https://echocow.cn/">
+  <a href="https://rainss.cn/">
     <img src="https://github-readme-stats.vercel.app/api?username=rainerosion&show_icons=true&hide_border=true" />
   </a>
 </div>
