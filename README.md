@@ -4,6 +4,8 @@
   <a href="https://rainss.cn/">
     <img src="https://github-readme-stats.vercel.app/api?username=rainerosion&show_icons=true&hide_border=true" />
   </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainerosion&layout=compact&locale=cn" />
+  <p><img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&locale=cn" /></p>
 </div>
 <!--
 **rainerosion/rainerosion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
